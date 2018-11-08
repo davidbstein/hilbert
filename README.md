@@ -1,6 +1,6 @@
 # hilbert
 
-oh look a hilbert curve on the console.
+oh look a [hilbert curve][hilbert] on the console.
 
 ```
 ╭─davidstein at SWL-DStein in /Users/davidstein/repos/hilbert (master ✔)
@@ -103,3 +103,6 @@ oh look a hilbert curve on the console.
   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
   +----+    +----+    +----+    +----+    +----+    +----+    +----+    +----+
   ```
+
+
+[hilbert]: https://en.wikipedia.org/wiki/Hilbert_curve
